@@ -99,8 +99,7 @@ class SiteController extends Controller
 
 	private function postCaptcha($user_response) 
 	{
-		#$secret = '6LeroEUUAAAAAN1827phY2e30xGQv-aDBvRN14QA';//producccion
-		$secret = '6LfYoEUUAAAAAMx6UkiskjOsjZsjGB8UqfcV6QC0';//localhost
+		$secret = '';//localhost
         $fields_string = '';
         $fields = array(
             'secret' => $secret,

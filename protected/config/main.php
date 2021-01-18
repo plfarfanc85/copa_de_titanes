@@ -57,11 +57,11 @@ return array(
 			'SMTPAuth' => true,
 			'Port' => 465,
 			'Username' => 'info@copadetitanes.com',
-			'Password' => 'CR7-MAIL-PF-.*',
+			'Password' => '',
 			'remit_name' => 'Copa de Titanes',
 			'remit_email' => 'info@copadetitanes.com',
 			'reply_name' => 'Pedro Farfan',
-			'reply_email' => 'pedrofarfan85@hotmail.com',
+			'reply_email' => '',
 		),
 
 		// uncomment the following to enable URLs in path-format
@@ -87,10 +87,10 @@ return array(
 		#'db'=>require(dirname(__FILE__).'/database.php'),
 		'db'=>array(
 			'class'=>'CDbConnection', 
-			'connectionString' => YII_DEBUG?'mysql:dbname=pantheon;host=127.0.0.1':'mysql:host=localhost;dbname=deity',
+			'connectionString' => YII_DEBUG?'mysql:dbname=pantheon;host=127.0.0.1':'mysql:dbname=pantheon;host=127.0.0.1',
 			'emulatePrepare' => true,
-			'username' => YII_DEBUG?'root':'root_deity',
-			'password' => YII_DEBUG?'':'urano_deity_2018.*',
+			'username' => YII_DEBUG?'root':'',
+			'password' => YII_DEBUG?'':'',
 			'schemaCachingDuration' => (1), // 8 Dias	
 			#'schemaCachingDuration' => (3600*24*8), // 8 Dias
 			'charset' => 'utf8',
