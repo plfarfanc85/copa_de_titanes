@@ -1,0 +1,1596 @@
+2017/08/16 05:38:22 [error] [php] include(GBeginRequest.php): failed to open stream: No such file or directory (/Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/YiiBase.php:423)
+Stack trace:
+#0 unknown(0): spl_autoload_call()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CComponent.php(557): call_user_func()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(189): CWebApplication->raiseEvent()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(161): CWebApplication->onBeginRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CWebApplication->run()
+REQUEST_URI=/yii/cupsofgods/
+2017/08/19 01:59:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/img/user-1.jpg"' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/img/user...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/cupsofgods/assets/img/user-1.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/
+---
+2017/08/19 01:59:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/img/home-bg.jpg"' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/img/home...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/cupsofgods/assets/img/home-bg.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/
+---
+2017/08/19 01:59:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/img/milestone-bg.jpg"' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/img/mile...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/cupsofgods/assets/img/milestone-bg.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/
+---
+2017/08/19 01:59:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/img/quote-bg.jpg"' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/img/quot...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/cupsofgods/assets/img/quote-bg.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/
+---
+2017/08/19 01:59:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/img/user-2.jpg"' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/img/user...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/cupsofgods/assets/img/user-2.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/
+---
+2017/08/19 01:59:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/img/user-3.jpg"' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/img/user...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/cupsofgods/assets/img/user-3.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/
+---
+2017/08/19 01:59:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/img/work-1.jpg"' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/img/work...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/cupsofgods/assets/img/work-1.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/
+---
+2017/08/19 01:59:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/img/action-bg.jpg"' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/img/acti...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/cupsofgods/assets/img/action-bg.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/
+---
+2017/08/19 01:59:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/img/work-5.jpg"' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/img/work...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/cupsofgods/assets/img/work-5.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/
+---
+2017/08/19 01:59:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/img/work-3.jpg"' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/img/work...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/cupsofgods/assets/img/work-3.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/
+---
+2017/08/19 01:59:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/img/work-2.jpg"' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/img/work...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/cupsofgods/assets/img/work-2.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/
+---
+2017/08/19 01:59:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/img/work-7.jpg"' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/img/work...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/cupsofgods/assets/img/work-7.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/
+---
+2017/08/19 01:59:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/img/work-6.jpg"' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/img/work...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/cupsofgods/assets/img/work-6.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/
+---
+2017/08/19 01:59:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/img/work-8.jpg"' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/img/work...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/cupsofgods/assets/img/work-8.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/
+---
+2017/08/19 01:59:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/img/work-4.jpg"' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/img/work...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/cupsofgods/assets/img/work-4.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/
+---
+2017/08/19 01:59:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/img/client-bg.jpg"' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/img/clie...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/cupsofgods/assets/img/client-bg.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/
+---
+2017/08/20 00:42:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/img/home-bg.jpg"' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/img/home...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/cupsofgods/assets/img/home-bg.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/
+---
+2017/08/20 00:42:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/img/user-1.jpg"' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/img/user...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/cupsofgods/assets/img/user-1.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/
+---
+2017/08/20 00:42:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/img/milestone-bg.jpg"' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/img/mile...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/cupsofgods/assets/img/milestone-bg.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/
+---
+2017/08/20 00:42:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/img/user-2.jpg"' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/img/user...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/cupsofgods/assets/img/user-2.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/
+---
+2017/08/20 00:42:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/img/action-bg.jpg"' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/img/acti...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/cupsofgods/assets/img/action-bg.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/
+---
+2017/08/20 00:42:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/img/work-1.jpg"' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/img/work...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/cupsofgods/assets/img/work-1.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/
+---
+2017/08/20 00:42:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/img/quote-bg.jpg"' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/img/quot...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/cupsofgods/assets/img/quote-bg.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/
+---
+2017/08/20 00:42:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/img/work-5.jpg"' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/img/work...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/cupsofgods/assets/img/work-5.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/
+---
+2017/08/20 00:42:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/img/work-3.jpg"' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/img/work...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/cupsofgods/assets/img/work-3.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/
+---
+2017/08/20 00:42:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/img/user-3.jpg"' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/img/user...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/cupsofgods/assets/img/user-3.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/
+---
+2017/08/20 00:42:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/img/work-4.jpg"' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/img/work...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/cupsofgods/assets/img/work-4.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/
+---
+2017/08/20 00:42:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/img/work-2.jpg"' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/img/work...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/cupsofgods/assets/img/work-2.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/
+---
+2017/08/20 00:42:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/img/work-7.jpg"' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/img/work...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/cupsofgods/assets/img/work-7.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/
+---
+2017/08/20 00:42:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/img/work-8.jpg"' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/img/work...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/cupsofgods/assets/img/work-8.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/
+---
+2017/08/20 00:42:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/img/work-6.jpg"' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/img/work...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/cupsofgods/assets/img/work-6.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/
+---
+2017/08/20 00:42:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/img/client-bg.jpg"' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/img/clie...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/cupsofgods/assets/img/client-bg.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/
+---
+2017/08/20 00:42:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/img/user-1.jpg"' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/img/user...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/cupsofgods/assets/img/user-1.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/
+---
+2017/08/20 04:01:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "pantheon/login"' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/login')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/login
+---
+2017/08/20 04:01:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "pantheon/login"' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/login')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/login
+---
+2017/08/20 04:01:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "pantheon/login"' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/login')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/login
+---
+2017/08/20 04:02:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "pantheon/login"' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/login')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/login
+---
+2017/08/20 04:02:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/plugins/bootstrap/css/bootstrap.min.css
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:02:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/plugins/jquery-ui/themes/base/minified/jquery-ui.min.css
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:02:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/plugins/font-awesome/css/font-awesome.min.css
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:02:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/plugins/ionicons/css/ionicons.min.css
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:02:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/css/animate.min.css
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:02:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/css/style.min.css
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:02:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/css/theme/default.css
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:02:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/css/style-responsive.min.css
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:02:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/plugins/pace/pace.min.js
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:02:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/plugins/jquery/jquery-1.9.1.min.js
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:02:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/plugins/jquery/jquery-migrate-1.1.0.min.js
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:02:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/plugins/bootstrap/js/bootstrap.min.js
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:02:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/plugins/slimscroll/jquery.slimscroll.min.js
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:02:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/js/login-v2.demo.min.js
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:02:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/plugins/jquery-cookie/jquery.cookie.js
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:02:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/js/apps.min.js
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:02:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/plugins/jquery-ui/ui/minified/jquery-ui.min.js
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:02:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-2.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:02:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-1.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:02:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-3.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:02:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-4.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:02:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-6.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:02:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-5.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:02:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/plugins/pace/pace.min.js
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:02:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-1.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:02:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/plugins/jquery/jquery-1.9.1.min.js
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:02:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/plugins/jquery/jquery-migrate-1.1.0.min.js
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:02:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/plugins/jquery-ui/ui/minified/jquery-ui.min.js
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:02:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/plugins/bootstrap/js/bootstrap.min.js
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:02:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/plugins/slimscroll/jquery.slimscroll.min.js
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:02:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/plugins/jquery-cookie/jquery.cookie.js
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:02:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/js/login-v2.demo.min.js
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:02:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/js/apps.min.js
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:26:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-1.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:26:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-2.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:26:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-3.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:26:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-4.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:26:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-5.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:26:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-6.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:27:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-1.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:27:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-2.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:27:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-3.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:27:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-4.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:27:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-5.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:27:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-6.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:32:17 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.components.Bootstrap" is invalid. Make sure it points to an existing PHP file and the file is readable.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/YiiBase.php:318
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/YiiBase.php(198): YiiBase::import('bootstrap.compo...', true)
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CModule.php(387): YiiBase::createComponent(Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CModule.php(493): CModule->getComponent('bootstrap')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(146): CModule->preloadComponents()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/YiiBase.php(127): CApplication->__construct('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/YiiBase.php(100): YiiBase::createApplication('CWebApplication', '/Applications/X...')
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): YiiBase::createWebApplication('/Applications/X...')
+#7 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:32:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-1.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:32:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-2.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:32:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-3.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:32:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-4.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:32:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-5.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:32:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-6.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:37:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-1.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:37:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-2.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:37:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-3.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:37:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-4.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:37:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-5.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:37:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-6.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:54:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/plugins/slimscroll/jquery.slimscroll.min.js
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:54:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/plugins/jquery-ui/ui/minified/jquery-ui.min.js
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:54:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/plugins/jquery/jquery-1.9.1.min.js
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:54:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/plugins/jquery-cookie/jquery.cookie.js
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:54:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/plugins/jquery/jquery-migrate-1.1.0.min.js
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:54:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/plugins/bootstrap/js/bootstrap.min.js
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:54:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/js/apps.min.js
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:54:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-2.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:54:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-1.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:54:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-3.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:54:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/js/login-v2.demo.min.js
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:54:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-5.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:54:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-4.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:54:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-6.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:54:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/plugins/jquery-ui/ui/minified/jquery-ui.min.js
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:54:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/plugins/bootstrap/js/bootstrap.min.js
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:54:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/plugins/slimscroll/jquery.slimscroll.min.js
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:54:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/plugins/jquery-cookie/jquery.cookie.js
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:54:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/js/login-v2.demo.min.js
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 04:54:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/js/apps.min.js
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 05:01:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-3.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 05:01:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-6.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 05:01:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-1.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 05:01:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-5.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 05:01:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-2.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 05:01:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "assets" solicitada.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(271): CController->missingAction('assets')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('assets')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/a...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/assets/img/login-bg/bg-4.jpg
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 21:04:37 [error] [exception.CException] exception 'CException' with message 'RrhhController contiene etiquetas de widget en la vista "/Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/modules/pantheon/views/rrhh/login.php" anidados incorrectamente. CActiveForm widget no contiene la llamada a endWidget().' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CBaseController.php:102
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(870): CBaseController->renderFile('/Applications/X...', Array, true)
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(783): CController->renderPartial('login', Array, true)
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/modules/pantheon/controllers/RrhhController.php(97): CController->render('login', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/actions/CInlineAction.php(50): RrhhController->actionLogin()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(292): CFilterChain->run()
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('login')
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/l...')
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#16 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 21:09:26 [error] [php] include(UserRrhh.php): failed to open stream: No such file or directory (/Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/YiiBase.php:423)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/components/UserIdentity.php(42): spl_autoload_call()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/components/UserIdentity.php(19): UserIdentity->autenticar()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/modules/pantheon/models/LoginForm.php(61): UserIdentity->authenticate()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/validators/CInlineValidator.php(43): LoginForm->authenticate()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/validators/CValidator.php(214): CInlineValidator->validateAttribute()
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CModel.php(158): CInlineValidator->validate()
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/modules/pantheon/controllers/RrhhController.php(93): LoginForm->validate()
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/actions/CInlineAction.php(50): RrhhController->actionLogin()
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(309): CInlineAction->runWithParams()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CFilterChain.php(134): RrhhController->runAction()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(1146): CAccessControlFilter->filter()
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CInlineFilter.php(59): RrhhController->filterAccessControl()
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(292): CFilterChain->run()
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(266): RrhhController->runActionWithFilters()
+#16 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): RrhhController->run()
+#17 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController()
+#18 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#19 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CWebApplication->run()
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/login
+2017/08/20 21:09:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "themes/frontend/assets/plugins/jquery/dist/jquery-migrate.min.map"' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('themes/frontend...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/cupsofgods/themes/frontend/assets/plugins/jquery/dist/jquery-migrate.min.map
+---
+2017/08/20 21:20:09 [error] [php] PDO::__construct(): php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known (/Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/CDbConnection.php:422)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/CDbConnection.php(309): CDbConnection->setActive()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CModule.php(388): CDbConnection->init()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(431): CWebApplication->getComponent()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/ar/CActiveRecord.php(619): CWebApplication->getDb()
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/ar/CActiveRecord.php(2262): UserRrhh->getDbConnection()
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/ar/CActiveRecord.php(383): CActiveRecordMetaData->__construct()
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/modules/pantheon/models/UserRrhh.php(23): model()
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/components/UserIdentity.php(42): model()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/components/UserIdentity.php(19): UserIdentity->autenticar()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/modules/pantheon/models/LoginForm.php(61): UserIdentity->authenticate()
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/validators/CInlineValidator.php(43): LoginForm->authenticate()
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/validators/CValidator.php(214): CInlineValidator->validateAttribute()
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CModel.php(158): CInlineValidator->validate()
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/modules/pantheon/controllers/RrhhController.php(93): LoginForm->validate()
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/actions/CInlineAction.php(50): RrhhController->actionLogin()
+#16 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(309): CInlineAction->runWithParams()
+#17 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CFilterChain.php(134): RrhhController->runAction()
+#18 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#19 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(1146): CAccessControlFilter->filter()
+#20 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CInlineFilter.php(59): RrhhController->filterAccessControl()
+#21 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#22 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(292): CFilterChain->run()
+#23 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(266): RrhhController->runActionWithFilters()
+#24 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): RrhhController->run()
+#25 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController()
+#26 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#27 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CWebApplication->run()
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/login
+2017/08/20 21:26:36 [error] [php] PDO::__construct(): php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known (/Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/CDbConnection.php:422)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/CDbConnection.php(309): CDbConnection->setActive()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CModule.php(388): CDbConnection->init()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(431): CWebApplication->getComponent()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/ar/CActiveRecord.php(619): CWebApplication->getDb()
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/ar/CActiveRecord.php(2262): UserRrhh->getDbConnection()
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/ar/CActiveRecord.php(383): CActiveRecordMetaData->__construct()
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/modules/pantheon/models/UserRrhh.php(23): model()
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/components/UserIdentity.php(42): model()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/components/UserIdentity.php(19): UserIdentity->autenticar()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/modules/pantheon/models/LoginForm.php(61): UserIdentity->authenticate()
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/validators/CInlineValidator.php(43): LoginForm->authenticate()
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/validators/CValidator.php(214): CInlineValidator->validateAttribute()
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CModel.php(158): CInlineValidator->validate()
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/modules/pantheon/controllers/RrhhController.php(93): LoginForm->validate()
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/actions/CInlineAction.php(50): RrhhController->actionLogin()
+#16 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(309): CInlineAction->runWithParams()
+#17 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CFilterChain.php(134): RrhhController->runAction()
+#18 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#19 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(1146): CAccessControlFilter->filter()
+#20 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CInlineFilter.php(59): RrhhController->filterAccessControl()
+#21 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#22 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(292): CFilterChain->run()
+#23 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(266): RrhhController->runActionWithFilters()
+#24 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): RrhhController->run()
+#25 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController()
+#26 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#27 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CWebApplication->run()
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/login
+2017/08/20 21:40:05 [error] [php] PDO::__construct(): php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known (/Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/CDbConnection.php:422)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/CDbConnection.php(309): CDbConnection->setActive()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CModule.php(388): CDbConnection->init()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(431): CWebApplication->getComponent()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/ar/CActiveRecord.php(619): CWebApplication->getDb()
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/ar/CActiveRecord.php(2262): UserRrhh->getDbConnection()
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/ar/CActiveRecord.php(383): CActiveRecordMetaData->__construct()
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/modules/pantheon/models/UserRrhh.php(23): model()
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/components/UserIdentity.php(42): model()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/components/UserIdentity.php(19): UserIdentity->autenticar()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/modules/pantheon/models/LoginForm.php(61): UserIdentity->authenticate()
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/validators/CInlineValidator.php(43): LoginForm->authenticate()
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/validators/CValidator.php(214): CInlineValidator->validateAttribute()
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CModel.php(158): CInlineValidator->validate()
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/modules/pantheon/controllers/RrhhController.php(93): LoginForm->validate()
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/actions/CInlineAction.php(50): RrhhController->actionLogin()
+#16 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(309): CInlineAction->runWithParams()
+#17 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CFilterChain.php(134): RrhhController->runAction()
+#18 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#19 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(1146): CAccessControlFilter->filter()
+#20 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CInlineFilter.php(59): RrhhController->filterAccessControl()
+#21 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#22 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(292): CFilterChain->run()
+#23 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(266): RrhhController->runActionWithFilters()
+#24 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): RrhhController->run()
+#25 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController()
+#26 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#27 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CWebApplication->run()
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/login
+2017/08/20 21:41:26 [error] [php] PDO::__construct(): php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known (/Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/CDbConnection.php:422)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/CDbConnection.php(309): CDbConnection->setActive()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CModule.php(388): CDbConnection->init()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(431): CWebApplication->getComponent()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/ar/CActiveRecord.php(619): CWebApplication->getDb()
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/ar/CActiveRecord.php(2262): UserRrhh->getDbConnection()
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/ar/CActiveRecord.php(383): CActiveRecordMetaData->__construct()
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/modules/pantheon/models/UserRrhh.php(23): model()
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/components/UserIdentity.php(42): model()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/components/UserIdentity.php(19): UserIdentity->autenticar()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/modules/pantheon/models/LoginForm.php(61): UserIdentity->authenticate()
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/validators/CInlineValidator.php(43): LoginForm->authenticate()
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/validators/CValidator.php(214): CInlineValidator->validateAttribute()
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CModel.php(158): CInlineValidator->validate()
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/modules/pantheon/controllers/RrhhController.php(93): LoginForm->validate()
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/actions/CInlineAction.php(50): RrhhController->actionLogin()
+#16 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(309): CInlineAction->runWithParams()
+#17 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CFilterChain.php(134): RrhhController->runAction()
+#18 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#19 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(1146): CAccessControlFilter->filter()
+#20 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CInlineFilter.php(59): RrhhController->filterAccessControl()
+#21 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#22 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(292): CFilterChain->run()
+#23 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(266): RrhhController->runActionWithFilters()
+#24 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): RrhhController->run()
+#25 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController()
+#26 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#27 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CWebApplication->run()
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/login
+2017/08/20 21:59:25 [error] [php] PDO::__construct(): php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known (/Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/CDbConnection.php:422)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/CDbConnection.php(309): CDbConnection->setActive()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CModule.php(388): CDbConnection->init()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(431): CWebApplication->getComponent()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/ar/CActiveRecord.php(619): CWebApplication->getDb()
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/ar/CActiveRecord.php(2262): UserRrhh->getDbConnection()
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/ar/CActiveRecord.php(383): CActiveRecordMetaData->__construct()
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/modules/pantheon/models/UserRrhh.php(23): model()
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/components/UserIdentity.php(42): model()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/components/UserIdentity.php(19): UserIdentity->autenticar()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/modules/pantheon/models/LoginForm.php(61): UserIdentity->authenticate()
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/validators/CInlineValidator.php(43): LoginForm->authenticate()
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/validators/CValidator.php(214): CInlineValidator->validateAttribute()
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CModel.php(158): CInlineValidator->validate()
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/modules/pantheon/controllers/RrhhController.php(93): LoginForm->validate()
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/actions/CInlineAction.php(50): RrhhController->actionLogin()
+#16 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(309): CInlineAction->runWithParams()
+#17 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CFilterChain.php(134): RrhhController->runAction()
+#18 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#19 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(1146): CAccessControlFilter->filter()
+#20 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CInlineFilter.php(59): RrhhController->filterAccessControl()
+#21 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#22 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(292): CFilterChain->run()
+#23 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(266): RrhhController->runActionWithFilters()
+#24 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): RrhhController->run()
+#25 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController()
+#26 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#27 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CWebApplication->run()
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/login
+2017/08/20 22:08:42 [error] [php] PDO::__construct(): php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known (/Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/CDbConnection.php:422)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/CDbConnection.php(309): CDbConnection->setActive()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CModule.php(388): CDbConnection->init()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(431): CWebApplication->getComponent()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/ar/CActiveRecord.php(619): CWebApplication->getDb()
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/ar/CActiveRecord.php(2262): UserRrhh->getDbConnection()
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/ar/CActiveRecord.php(383): CActiveRecordMetaData->__construct()
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/modules/pantheon/models/UserRrhh.php(23): model()
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/components/UserIdentity.php(42): model()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/components/UserIdentity.php(19): UserIdentity->autenticar()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/modules/pantheon/models/LoginForm.php(61): UserIdentity->authenticate()
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/validators/CInlineValidator.php(43): LoginForm->authenticate()
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/validators/CValidator.php(214): CInlineValidator->validateAttribute()
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CModel.php(158): CInlineValidator->validate()
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/modules/pantheon/controllers/RrhhController.php(93): LoginForm->validate()
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/actions/CInlineAction.php(50): RrhhController->actionLogin()
+#16 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(309): CInlineAction->runWithParams()
+#17 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CFilterChain.php(134): RrhhController->runAction()
+#18 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#19 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(1146): CAccessControlFilter->filter()
+#20 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CInlineFilter.php(59): RrhhController->filterAccessControl()
+#21 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#22 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(292): CFilterChain->run()
+#23 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(266): RrhhController->runActionWithFilters()
+#24 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): RrhhController->run()
+#25 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController()
+#26 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#27 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CWebApplication->run()
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/login
+2017/08/20 22:09:24 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection.connectionString cannot be empty.' in /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/CDbConnection.php:370
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CModule.php(388): CDbConnection->init()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/ar/CActiveRecord.php(619): CApplication->getDb()
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/ar/CActiveRecord.php(2262): CActiveRecord->getDbConnection()
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/ar/CActiveRecord.php(383): CActiveRecordMetaData->__construct(Object(UserRrhh))
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/modules/pantheon/models/UserRrhh.php(23): CActiveRecord::model('UserRrhh')
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/components/UserIdentity.php(42): UserRrhh::model()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/components/UserIdentity.php(19): UserIdentity->autenticar()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/modules/pantheon/models/LoginForm.php(61): UserIdentity->authenticate()
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/validators/CInlineValidator.php(43): LoginForm->authenticate('password', Array)
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/validators/CValidator.php(214): CInlineValidator->validateAttribute(Object(LoginForm), 'password')
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CModel.php(158): CValidator->validate(Object(LoginForm), NULL)
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/modules/pantheon/controllers/RrhhController.php(93): CModel->validate()
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/actions/CInlineAction.php(50): RrhhController->actionLogin()
+#16 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#17 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#18 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#19 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#20 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#21 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#22 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(292): CFilterChain->run()
+#23 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#24 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): CController->run('login')
+#25 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController('pantheon/rrhh/l...')
+#26 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#27 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CApplication->run()
+#28 {main}
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/login
+HTTP_REFERER=http://localhost/yii/cupsofgods/pantheon/rrhh/login
+---
+2017/08/20 22:11:44 [error] [php] PDO::__construct(): php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known (/Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/CDbConnection.php:422)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/CDbConnection.php(309): CDbConnection->setActive()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CModule.php(388): CDbConnection->init()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(431): CWebApplication->getComponent()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/ar/CActiveRecord.php(619): CWebApplication->getDb()
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/ar/CActiveRecord.php(2262): UserRrhh->getDbConnection()
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/ar/CActiveRecord.php(383): CActiveRecordMetaData->__construct()
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/modules/pantheon/models/UserRrhh.php(23): model()
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/components/UserIdentity.php(42): model()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/components/UserIdentity.php(19): UserIdentity->autenticar()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/modules/pantheon/models/LoginForm.php(61): UserIdentity->authenticate()
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/validators/CInlineValidator.php(43): LoginForm->authenticate()
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/validators/CValidator.php(214): CInlineValidator->validateAttribute()
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CModel.php(158): CInlineValidator->validate()
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/modules/pantheon/controllers/RrhhController.php(93): LoginForm->validate()
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/actions/CInlineAction.php(50): RrhhController->actionLogin()
+#16 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(309): CInlineAction->runWithParams()
+#17 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CFilterChain.php(134): RrhhController->runAction()
+#18 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#19 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(1146): CAccessControlFilter->filter()
+#20 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CInlineFilter.php(59): RrhhController->filterAccessControl()
+#21 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#22 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(292): CFilterChain->run()
+#23 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(266): RrhhController->runActionWithFilters()
+#24 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): RrhhController->run()
+#25 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController()
+#26 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#27 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CWebApplication->run()
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/login
+2017/08/20 22:15:38 [error] [php] PDO::__construct(): php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known (/Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/CDbConnection.php:422)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/CDbConnection.php(309): CDbConnection->setActive()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CModule.php(388): CDbConnection->init()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(431): CWebApplication->getComponent()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/ar/CActiveRecord.php(619): CWebApplication->getDb()
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/ar/CActiveRecord.php(2262): UserRrhh->getDbConnection()
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/db/ar/CActiveRecord.php(383): CActiveRecordMetaData->__construct()
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/modules/pantheon/models/UserRrhh.php(23): model()
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/components/UserIdentity.php(42): model()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/components/UserIdentity.php(19): UserIdentity->autenticar()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/modules/pantheon/models/LoginForm.php(61): UserIdentity->authenticate()
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/validators/CInlineValidator.php(43): LoginForm->authenticate()
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/validators/CValidator.php(214): CInlineValidator->validateAttribute()
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CModel.php(158): CInlineValidator->validate()
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/protected/modules/pantheon/controllers/RrhhController.php(93): LoginForm->validate()
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/actions/CInlineAction.php(50): RrhhController->actionLogin()
+#16 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(309): CInlineAction->runWithParams()
+#17 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CFilterChain.php(134): RrhhController->runAction()
+#18 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#19 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(1146): CAccessControlFilter->filter()
+#20 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CInlineFilter.php(59): RrhhController->filterAccessControl()
+#21 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#22 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(292): CFilterChain->run()
+#23 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CController.php(266): RrhhController->runActionWithFilters()
+#24 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(283): RrhhController->run()
+#25 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/web/CWebApplication.php(142): CWebApplication->runController()
+#26 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/yii-1.1.11/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#27 /Applications/XAMPP/xamppfiles/htdocs/yii/cupsofgods/index.php(19): CWebApplication->run()
+REQUEST_URI=/yii/cupsofgods/pantheon/rrhh/login

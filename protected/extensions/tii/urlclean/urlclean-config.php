@@ -1,0 +1,24 @@
+<?php
+return array(
+	'aliases'=>array(
+		'urlclean'=>dirname(__FILE__),
+	),
+	'preload'=>array('urlclean'),
+	'components'=>array(
+		'urlclean'=>array(
+			'class'=>'urlclean.GUrlClean',
+			'debug'=>false,
+		),
+		'urlManager'=>array(
+			#'class'=>'tii.components.GTiiUrlManager',
+			'urlFormat'=>'path',
+			'cacheID'=>false,
+			'showScriptName'=>false,
+			'rules'=>array(
+				'<controller:\w+>/<id:\d+>'=>'<controller>/view',
+				'<controller:\w+>/<action:\w+>/<id:\d+>'=>'<controller>/<action>',
+				'<controller:\w+>/<action:\w+>'=>'<controller>/<action>',
+			),
+		),
+	),
+);	
