@@ -13,8 +13,8 @@ class ContactForm extends CFormModel
 	public $body;
 	public $verifyCode;
 
-	private $secret_local = '6LfYoEUUAAAAAMx6UkiskjOsjZsjGB8UqfcV6QC0';
-	private $secret_prod = '6LeroEUUAAAAAN1827phY2e30xGQv-aDBvRN14QA';
+	private $secret_local = '';
+	private $secret_prod = '';
 
 	/**
 	 * Declares the validation rules.

@@ -512,7 +512,7 @@
                             </div>
                             <?php echo $form->error($contactForm,'verifyCode'); ?>
                             */ ?>
-                            <div class="g-recaptcha" data-sitekey="6LeroEUUAAAAAPFi2ln6_pYTrUbP-buZWLlwMSMF"></div>
+                            <div class="g-recaptcha" data-sitekey=""></div>
                             <!--<div class="g-recaptcha" data-sitekey="6LfYoEUUAAAAAAM7imdTy3IGcmBvc2Qs08glcvfk"></div>--><!--Local-->
                         </div>    
                     </div>    
