@@ -4,16 +4,16 @@ class CGMailer extends CApplicationComponent
 {
 	
 	public $SMTPAuth=true;
-	public $Host       = "starbox.co";      			// sets GMAIL as the SMTP server
+	public $Host       = "..co";      			// sets GMAIL as the SMTP server
 	public $Port       = 25;                   		// set the SMTP port for the GMAIL server
-	public $Username   = "info@starbox.co";  					// GMAIL username
-	public $Password   = "StarboX!!"; 
+	public $Username   = "info@..co";  					// GMAIL username
+	public $Password   = ".!!"; 
 	public $SMTPSecure = '';           			// GMAIL password
 	
 	public $remit_name="info";
-	public $remit_email="info@starbox.com.co";
-	public $reply_name="Starbox";
-	public $reply_email="info@starbox.com.co";
+	public $remit_email="info@..com.co";
+	public $reply_name=".";
+	public $reply_email="info@..com.co";
 	public $_dest=array();
 	public $_destCC=array();
 	public $_destBCC=array();
@@ -102,7 +102,7 @@ class CGMailer extends CApplicationComponent
 	 * enviarCorreos
 	 * Envía los correos de cada componente
 	*/
-	public function send($body,$subject='Notificacion Starbox',$priority=1)
+	public function send($body,$subject='Notificacion .',$priority=1)
 	{
 		if($this->_transaction)
 		{
@@ -125,7 +125,7 @@ class CGMailer extends CApplicationComponent
 		
 		if($this->_dest===array())
 		{
-			$this->_dest["sistemas3@starbox.com.co"]="Sistemas3";
+			$this->_dest["sistemas3@..com.co"]="Sistemas3";
 			$subject.=" [Se envió sin destinatario]";
 			Yii::log("gemail: un correo se intentó envio sin destinatarios prinsipales","warning","email");
 		}

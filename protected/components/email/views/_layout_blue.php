@@ -10,7 +10,7 @@
 						<td bgcolor="#279ed5" align="center" style="background-color: <?php echo $templateColor?>;color: #fff;">
 							<br>
 							<h1 style="font-family:'Open Sans','Lucida Grande','Segoe UI',Arial,Verdana,'Lucida Sans Unicode',Tahoma,'Sans Serif';">
-								<?php #echo isset($head)?$head:"Starbox";?>
+								<?php #echo isset($head)?$head:".";?>
 								<?php echo $templateTitle?>
 							</h1>
 						</td>

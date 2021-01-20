@@ -104,7 +104,7 @@ class CGMailer extends CApplicationComponent
 		$this->_destBCC[$mail]=$name;
 	}
 
-	public function sendBody($body,$subject='Notificacion Starbox',$priority=1)
+	public function sendBody($body,$subject='Notificacion .',$priority=1)
 	{
 		$body=$this->render($this->template,array(
 			"content"=>$body,
@@ -118,7 +118,7 @@ class CGMailer extends CApplicationComponent
 	 * enviarCorreos
 	 * Envía los correos de cada componente
 	*/
-	public function send($body,$subject='Notificacion Starbox',$priority=1)
+	public function send($body,$subject='Notificacion .',$priority=1)
 	{
 		if($this->_transaction)
 		{
@@ -141,7 +141,7 @@ class CGMailer extends CApplicationComponent
 
 		if($this->_dest===array())
 		{
-			$this->_dest["sistemas@starbox.com.co"]="Sistemas";
+			$this->_dest["sistemas@..com.co"]="Sistemas";
 			$subject.=" [Se envió sin destinatario]";
 			Yii::log("gemail: un correo se intentó envio sin destinatarios principales","warning","email");
 		}
